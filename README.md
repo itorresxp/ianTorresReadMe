@@ -29,15 +29,6 @@
 
 <br/>
 
-<h2 align="center">🏆 Conquistas Desbloqueadas</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Troféus do Ian" />
-  </a>
-</div>
-
-<br/>
-
 <h2 align="center">⚙️ Stack Principal</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6" alt="Tech Stack do Ian" />
@@ -45,19 +36,25 @@
 
 <br/>
 
-<h2 align="center">📡 Telemetria do Repositório</h2>
+<h2 align="center">🔥 Linguagens Mais Usadas</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26" alt="Estatísticas de Contribuição"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Linguagens mais usadas"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=py,js,java&theme=dark" alt="Linguagens Principais" />
 </div>
+
+<br/>
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+<div align="center">
+  <a href="https://itorresxp.github.io/Index/?fbclid=PAQ0xDSwMLUvVleHRuA2FlbQIxMQABp9SpWPVVSIIYYzsqi93ZRr5WmnXDtfkNtkOmmbwwDVyIarfR2jA60PgcUTUA_aem_gcKAsaZvpYRiUgn5n4L_ww" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Visualizar_Projeto_1-7AA2F7?style=for-the-badge&logoColor=white&labelColor=1A1B26" alt="Projeto 1"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://itorresxp.github.io/arquivo/" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Visualizar_Projeto_2-7AA2F7?style=for-the-badge&logoColor=white&labelColor=1A1B26" alt="Projeto 2"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
