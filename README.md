@@ -1,43 +1,60 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Ian+Torres!+🚀;RPA+Developer+%7C+Software+Engineer;Automatizando+o+futuro.;Especialista+na+Lecom." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=IAN%20TORRES&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=RPA%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h2>⚡ Sobre o Ian</h2>
-      <p>
-        Sou um desenvolvedor focado em <strong>eficiência e inovação</strong>. Transformo problemas operacionais complexos em arquiteturas de automação robustas.
-      </p>
-      <ul>
-        <li>🔭 Atualmente: <strong>RPA Developer na Lecom</strong>.</li>
-        <li>🎯 Foco: Arquitetura de soluções, do circuito lógico ao deploy.</li>
-        <li>🧠 Stack principal: Python, JS e ferramentas de RPA proprietárias.</li>
-        <li>💬 Conecte-se: <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">LinkedIn</a> ou <a href="mailto:ian.torres@lecom.com.br">E-mail</a>.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h2>📈 Performance</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ian's Github Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-<h2 align="center">🛠️ Arsenal Tecnológico</h2>
+<h2 align="center">👨🏻‍💻 System.Bio</h2>
 <div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,vscode,powerbi&theme=dark&perline=6" alt="Tech Stack do Ian" />
-    </a>
-  </p>
+<pre>
+<code>
+{
+  "nome": "Ian Torres",
+  "cargoAtual": "RPA Developer @ Lecom",
+  "foco": ["Robotic Process Automation", "Engenharia de Software"],
+  "missao": "Transformar processos operacionais complexos em soluções automatizadas, ágeis e infalíveis.",
+  "localizacao": "Bauru, SP - Brasil",
+  "contato": {
+    "email": "ian.torres@lecom.com.br",
+    "linkedin": "linkedin.com/in/SEU_LINKEDIN_AQUI"
+  }
+}
+</code>
+</pre>
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Conquistas Desbloqueadas</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Troféus do Ian" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">⚙️ Stack Principal</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,regex,powershell&theme=dark&perline=6" alt="Tech Stack do Ian" />
+</div>
+
+<br/>
+
+<h2 align="center">📡 Telemetria do Repositório</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26" alt="Estatísticas de Contribuição"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Linguagens mais usadas"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0d1117,24292f,58a6ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
