@@ -1,44 +1,43 @@
 <div align="center">
-  <h1>Olá, eu sou o Ian Torres! 🚀</h1>
-  <h3>RPA Developer | Software Engineer | Especialista em Automação</h3>
-  <p>Transformando processos operacionais e repetitivos em soluções ágeis, seguras e eficientes.</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Ian+Torres!+🚀;RPA+Developer+%7C+Software+Engineer;Automatizando+o+futuro.;Especialista+na+Lecom." alt="Typing SVG" />
+  </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>⚡ Sobre o Ian</h2>
+      <p>
+        Sou um desenvolvedor focado em <strong>eficiência e inovação</strong>. Transformo problemas operacionais complexos em arquiteturas de automação robustas.
+      </p>
+      <ul>
+        <li>🔭 Atualmente: <strong>RPA Developer na Lecom</strong>.</li>
+        <li>🎯 Foco: Arquitetura de soluções, do circuito lógico ao deploy.</li>
+        <li>🧠 Stack principal: Python, JS e ferramentas de RPA proprietárias.</li>
+        <li>💬 Conecte-se: <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">LinkedIn</a> ou <a href="mailto:ian.torres@lecom.com.br">E-mail</a>.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>📈 Performance</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ian's Github Stats" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-## 👨🏻‍💻 Sobre Mim
-- 💼 Atualmente atuando como **RPA Developer** na **Lecom**.
-- ⚙️ Focado em criar arquiteturas de automação robustas, desde a simulação de circuitos lógicos e estruturação de fluxos até o deploy do código final.
-- 💡 Entusiasta de melhoria contínua, análise de dados e construções de soluções inteligentes.
-- 📫 Como me encontrar: [ian.torres@lecom.com.br](mailto:ian.torres@lecom.com.br) ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI).
-
-<br/>
-
-## 🛠️ Tecnologias e Ferramentas
-
+<h2 align="center">🛠️ Arsenal Tecnológico</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Roberty_Automation-0052CC?style=flat-square&logo=robot&logoColor=white" alt="Roberty Automation"/>
-  <img src="https://img.shields.io/badge/Tinkercad-00979D?style=flat-square&logo=autodesk&logoColor=white" alt="Tinkercad"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,nodejs,react,mysql,git,github,vscode,powerbi&theme=dark&perline=6" alt="Tech Stack do Ian" />
+    </a>
+  </p>
 </div>
 
-<br/>
-
-## 📊 Analytics
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0d1117,24292f,58a6ff"/>
 </div>
