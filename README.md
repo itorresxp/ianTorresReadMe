@@ -19,8 +19,8 @@
   "missao": "Transformar processos operacionais complexos em soluções automatizadas, ágeis e infalíveis.",
   "localizacao": "Bauru, SP - Brasil",
   "contato": {
-    "email": "ian.torres@lecom.com.br",
-    "linkedin": "linkedin.com/in/SEU_LINKEDIN_AQUI"
+    "email": "iantorres.201611",
+    "linkedin": "https://www.linkedin.com/in/ian-torres-0b78a72b8/"
   }
 }
 </code>
