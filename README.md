@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=IAN%20TORRES&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=RPA%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=IAN%20TORRES&fontSize=70&fontAlignY=40&fontColor=ffffff" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=RPA+Developer+%40+Lecom;Engenharia+de+Software;Automatizando+processos+complexos;Lógica.+Automação.+Eficiência." alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
