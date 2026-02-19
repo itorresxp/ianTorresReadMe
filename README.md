@@ -38,7 +38,7 @@
 
 <h2 align="center">🔥 Linguagens Mais Usadas</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java&theme=dark" alt="Linguagens Principais" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,nodejs&theme=dark" alt="Linguagens Principais" />
 </div>
 
 <br/>
